@@ -1,7 +1,7 @@
 ## Transformers Tutorials
 
 ### Introduction
-New deep learning models are introduced at an increasing rate and sometimes it’s hard to keep track of all the novelties. That said, one particular neural network model has proven to be especially effective for common natural language processing tasks. The model is called a Transformer and it makes use of several methods and mechanisms. The paper ‘Attention Is All You Need’ introduces a novel architecture called Transformer. As the title indicates, it uses the attention-mechanism.
+New deep learning model are introduced at an increasing rate and sometimes it’s hard to keep track of all the novelties. That said, one particular neural network model has proven to be especially effective for common natural language processing tasks. The model is called a Transformer and it makes use of several methods and mechanisms. The paper ‘Attention Is All You Need’ introduces a novel architecture called Transformer. As the title indicates, it uses the attention-mechanism.
 
 <p align='center'><img src='https://miro.medium.com/max/700/1*BHzGVskWGS_3jEcYYi6miQ.png' height=450 width=400></p>
 
