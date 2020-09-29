@@ -18,3 +18,21 @@ The implementation of these notebooks and scripts have one and only sole purpose
 
 ### Resources and Further Reading
 You can improve your knowledge on this topic by reading/watching the following resources:
+
+### References:
+
+#### General 
+1. https://notebooks.quantumstat.com/
+2. https://www.kaggle.com/
+
+#### NLP Repositories
+1. https://github.com/graykode/nlp-tutorial 
+2. https://pytorch.org/tutorials/beginner/transformer_tutorial.html
+
+
+#### Blogs 
+##### Transformers
+1. https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec
+2. http://peterbloem.nl/blog/transformers
+3. https://nlp.seas.harvard.edu/2018/04/03/attention.html#additional-components-bpe-search-averaging
+4. https://mlexplained.com/2019/07/04/building-the-transformer-xl-from-scratch/
