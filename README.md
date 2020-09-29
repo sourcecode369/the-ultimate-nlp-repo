@@ -24,11 +24,12 @@ You can improve your knowledge on this topic by reading/watching the following r
 #### General 
 1. https://notebooks.quantumstat.com/
 2. https://www.kaggle.com/
+3. https://keras.io/examples/
+4. https://www.tensorflow.org/tutorials/text/word_embeddings
+5. https://pytorch.org/tutorials/beginner/transformer_tutorial.html
 
 #### NLP Repositories
 1. https://github.com/graykode/nlp-tutorial 
-2. https://pytorch.org/tutorials/beginner/transformer_tutorial.html
-
 
 #### Blogs 
 ##### Transformers
